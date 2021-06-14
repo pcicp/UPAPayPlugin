@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'UPAPayPlugin'
-  spec.version      = '1.5'
+  spec.version      = '1.6'
   spec.license      = '中国银联'
   spec.homepage     = 'https://open.unionpay.com'
   spec.authors      = '中国银联'
